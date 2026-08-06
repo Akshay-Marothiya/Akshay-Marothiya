@@ -48,8 +48,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
+<br>
+
 ---
-## 🌐 Connect With Me
+
+### 🌐 Connect With Me
 
 <a href="https://your-portfolio.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
