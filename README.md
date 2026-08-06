@@ -1,6 +1,6 @@
 # Akshay Marothiya 👋
 **Full Stack Developer**
-I'm a Full-Stack .NET Developer with a strong interest in building practical, well-designed software. I work primarily with C#, ASP.NET Core, Blazor, PostgreSQL, JavaScript, HTML, and CSS, developing both frontend experiences and backend systems. Beyond web development, I build games and gameplay systems with Unity and create 3D environments using Blender. I enjoy understanding how things work beneath the surface and continuously improving the way I design and structure software. I'm currently focused on strengthening my full-stack development skills, exploring graphics programming, building meaningful projects, and growing through real-world development challenges and collaborative opportunities.
+<p font-weight="100">I'm a Full-Stack .NET Developer with a strong interest in building practical, well-designed software. I work primarily with C#, ASP.NET Core, Blazor, PostgreSQL, JavaScript, HTML, and CSS, developing both frontend experiences and backend systems. Beyond web development, I build games and gameplay systems with Unity and create 3D environments using Blender. I enjoy understanding how things work beneath the surface and continuously improving the way I design and structure software. I'm currently focused on strengthening my full-stack development skills, exploring graphics programming, building meaningful projects, and growing through real-world development challenges and collaborative opportunities.</p>
 ---
 ### ⚙️ Tech Stack
 <img align="left" alt="C#" width="30px" style="padding-right:10px;"
