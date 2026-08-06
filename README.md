@@ -47,3 +47,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+
+---
+## 🌐 Connect With Me
+
+<a href="https://your-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
