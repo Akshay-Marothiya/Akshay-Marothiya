@@ -42,11 +42,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 
 ### 🌐 Connect With Me
 
-<a href="[https://your-portfolio.vercel.app](https://github.com/Akshay-Marothiya)" target="_blank">
+<a href="[https://github.com/Akshay-Marothiya]" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/akshay-marothiya-b30230377/)" target="_blank">
+<a href="[https://www.linkedin.com/in/akshay-marothiya-b30230377/]" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
